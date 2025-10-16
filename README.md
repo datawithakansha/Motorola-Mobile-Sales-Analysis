@@ -1,3 +1,5 @@
+📊 **Motorola Mobile Sales Analysis Dashboard (Power BI Project)**
+
 🧩 **Project Overview**
 
 This Power BI project analyzes Motorola mobile sales performance across various Indian cities and brands. It provides an interactive visualization of sales, quantity sold, customer ratings, and payment methods — helping the company identify trends and make data-driven business decisions.
