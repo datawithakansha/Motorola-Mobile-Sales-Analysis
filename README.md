@@ -18,19 +18,19 @@ To create a comprehensive sales analysis dashboard that highlights:
 
 . Daily and monthly sales trends
 
-📈** Key Insights**
+📈**Key Insights months ways**
 
 1. **Total Sales**: ₹51M generated with over 1,230 units sold and 235 transactions.
 
 2. **Top Performing Brand**: Samsung leads with the highest sales of ₹11.9M, followed closely by Vivo and Apple.
 
-3. **Best-Selling Models:**
+3. **Best-Selling Models by Months:**
 
-. Vivo V20 – ₹4.9M
+. **Vivo V20** – ₹4.9M
 
-. Galaxy Note 20 – ₹4.8M
+. **Galaxy Note 20** – ₹4.8M
 
-. iPhone 11 – ₹4.7M
+. **iPhone 11**– ₹4.7M
 
 4. **Top Cities by Sales**: Mumbai, Hyderabad, Bangalore, and Delhi show the highest sales volume.
 
